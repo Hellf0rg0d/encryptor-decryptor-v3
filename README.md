@@ -24,7 +24,7 @@ Change the background color to [Royal Blue](https://www.google.com/search?q=roya
 
 ## How does it works?
 ### Random Keys
-- The Application generates a random number valued between $\0-10^8$
+- The Application generates a random number valued between $\ 0-10^8$
 - The keys are randomly generated and never repeated
 ### 24-hour valid key
 - In this Application generates a new different key which can be only used for one day i.e..(A key generated on 10-11-2022 at 11:59:59 can't be used at 11-11-2022 at 12:00:01
