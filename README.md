@@ -7,7 +7,7 @@
 - User can now Copy the randomly generator key by enabling it.
 - User can now Copy the Encrpyted/Decrypted text by enabling it.
 ### New UI!
-Change the background color to [Royal Blue](https://images.google.com/search/q?=royal+blue)
+Change the background color to [Royal Blue](https://www.google.com/search?q=royal+blue)
 - Updated the icons!
 - Updated the settings sections.
 - Made the settings section clean and easy to use!
