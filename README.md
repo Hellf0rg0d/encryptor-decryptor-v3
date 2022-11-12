@@ -19,7 +19,7 @@ Change the background color to [Royal Blue](https://www.google.com/search?q=roya
 - Settings -> ![image](https://user-images.githubusercontent.com/93775719/201476311-4898c8ba-b067-4191-aea0-d3560e262151.png)
 ### Copying Randomly generated key/Encrypted/Decrypted word/texts 
 **NOTE** This Feature will only work when the " Generate Random seeds? " & "Show Decrypted/Encrypted word? " Are enabled.
-- Settings -> ![image](https://user-images.githubusercontent.com/93775719/201476376-cb3c96b1-4f18-496b-9fd6-eaceceaad2e2.png)
+- Settings -> ![image](https://user-images.githubusercontent.com/93775719/201477185-1bc48da5-5286-4d3f-b87e-878350e3ec02.png)
 ![image](https://user-images.githubusercontent.com/93775719/201476534-c0434d2e-c642-40b5-bb03-ed10ae0264a1.png)
 
 ## How does it works?
