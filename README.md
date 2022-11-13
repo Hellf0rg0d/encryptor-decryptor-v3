@@ -14,10 +14,12 @@ Change the background color to [Royal Blue](https://www.google.com/search?q=roya
 - Updated the Help Menu.
 ## How to use ?
 ### Enabling Randomly generating seeds 
-**NOTE** This Feature will only work when the " Generate Random seeds? " is enabled!
-- Settings -> ![image](https://user-images.githubusercontent.com/93775719/201506292-e82dee36-5da8-4dfa-8295-5e907fbf1141.png)
+- Settings -> ![image](https://user-images.githubusercontent.com/93775719/201506354-8b762625-3f43-45a0-b830-00de389fd11b.png)
+
 ### Enabling 24-hr valid random keys
-- Settings -> ![image](https://user-images.githubusercontent.com/93775719/201476311-4898c8ba-b067-4191-aea0-d3560e262151.png)
+**NOTE** This Feature will only work when the " Generate Random seeds? " is enabled!
+- Settings -> ![image](https://user-images.githubusercontent.com/93775719/201506333-9064e4d1-13c9-4e03-9b76-9a756218a411.png)
+
 ### Copying Randomly generated key/Encrypted/Decrypted word/texts 
 **NOTE** This Feature will only work when the " Generate Random seeds? " & "Show Decrypted/Encrypted word? " Are enabled.
 - Settings -> ![image](https://user-images.githubusercontent.com/93775719/201477185-1bc48da5-5286-4d3f-b87e-878350e3ec02.png)
